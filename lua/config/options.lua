@@ -3,3 +3,5 @@
 -- Add any additional options here
 vim.opt.wrap = true
 vim.opt.swapfile = false
+
+--TODO: adding jsx completion
